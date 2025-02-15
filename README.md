@@ -1,6 +1,6 @@
 # Starbucks-Data-Analysis
 
-🚀 **Power BI Starbucks Dashboard: Uncovering Hidden Insights** ☕📊 
+🚀 **Power BI Starbucks Dashboard: Uncovering Hidden Insights** ☕📊  
 🔥 Excited to share my latest Power BI project! 🔥 
 
 Ever wondered what’s really in your Starbucks drink? Using **Power BI**, I analyzed Starbucks’ beverage data to uncover insights into **calories, caffeine, protein, sugar, and trans fat content**—helping users make smarter, healthier choices through **data visualization**. 
